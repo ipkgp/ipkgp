@@ -41,7 +41,7 @@ Estas são algumas das tecnologias e ferramentas com as quais estou trabalhando:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sqlite,powerbi" />
+    <img src="https://skillicons.dev/icons?i=python,c,postgres" />
     <img src="https://skillicons.dev/icons?i=excel,word,powerpoint" />
   </a>
 </p>
