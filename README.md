@@ -30,7 +30,7 @@ Minha trajetória profissional inclui uma experiência valiosa na **Moto Honda d
 Agora, meu objetivo é aplicar essa mentalidade estruturada no mundo da tecnologia.
 
 * 🌱 Atualmente estou focado em aprofundar meus conhecimentos.
-* 🔭 Busco oportunidades para aplicar minha experiência em processos e minha paixão por dados e desenvolvimento.
+* 🔭 Busco oportunidades para aplicar minha experiência em processos e minha paixão por desenvolvimento.
 
 ---
 
